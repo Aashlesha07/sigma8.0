@@ -1,0 +1,93 @@
+/* div{
+    height: 200px;
+    width: 500px;
+    background-color: azure;
+    /* border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    margin: 10px 20px 30px;
+     border-radius: 15px;
+    padding-top: 10px; 
+    border: 5px solid black;*/
+    /* border-left-color: aqua;
+    border-left-style: dashed ; */
+    /* margin-bottom: 25px; */
+    
+/* }
+h1{
+    border-width: 2px;
+    border-color: purple;
+    border-style: dashed;
+    margin:  0px;
+}
+button{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+} */
+
+/* display property */
+/* h1{
+    display: inline;
+    background-color: aqua;
+}
+span{
+    display: block;
+    background-color: blanchedalmond;
+} */
+
+/* Inline-block */
+/* div{
+    height: 200px;
+    width: 200px;
+    background-color: greenyellow;
+    border: 2px solid black;
+    margin: 5px;
+    display: inline-block;
+}
+#third{
+    display: none;
+} */
+
+
+/* persentage */
+/* h1{
+    border: 2px solid black;
+    width: 33.33%;
+}
+#outer{
+    height: 400px;
+    width: 400px;
+    background-color: pink;
+    margin: 50px;
+}
+#inner{
+    height: 100px;
+    width: 100px;
+    background-color: cornflowerblue;
+    margin-left: 10%;
+} */
+
+/* em */
+/* #outer{
+    height: 400px;
+    width: 400px;
+    border: 2px solid black;
+    background-color: pink;
+   font-size: 20px; 
+}
+#inner{
+    height: 100px;
+    width: 100px;
+    background-color: cornflowerblue;
+    font-size: 2em;
+    padding: 1em;
+} */
+
+section{
+    font-size: 15px;
+}
+div{
+    font-size: 1.5erm;
+}

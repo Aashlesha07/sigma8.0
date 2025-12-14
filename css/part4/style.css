@@ -1,0 +1,154 @@
+/* div{
+    height: 200px;
+    width: 200px;
+    background-color: rgba(255, 0, 0, 0.5); */
+    /* transition-duration: 1s;
+    transition-delay: 1s; */
+    /* margin: 0 auto;
+    margin-top: 10px;
+    transition: margin-top 2s ease-in 0.2s;
+}
+#opacity{
+    background-color: blueviolet;
+    opacity: 0.4;
+}
+div:hover{ */
+    /* background-color: black;
+    border-radius: 50%; */
+    /* margin-top: 400px;
+    background-color: pink;
+} */
+ /* transform */
+/* section{
+    margin-top: 100px;
+}
+div{
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    background-color: #7aa874;
+    border: 2px solid black;
+    margin: 10px;
+}
+div:nth-of-type(2n){
+    background-color: #f7db6a;
+}
+div:nth-of-type(3n){
+    background-color: #ebb02d;
+}
+#one{
+    transform: rotate(45deg);
+}
+#two{
+    transform: scale(0.5);
+}
+#three{
+    transform: translate(100px, 100px);
+}
+#four{
+    transform: skew(30deg);
+}
+#five{
+    transform: rotate(30deg) translate(150px);
+} */
+
+/* box shadow */
+/* div{
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    background-color: #7aa874;
+    margin: 10px auto;
+    background-image: url("banner.jpg");
+    background-size: cover;
+    color: white;
+} */
+
+/* card hover effect */
+
+/* #card{
+    height: 150px;
+    width: 200px;
+    display: inline-block;
+    border: 2px solid black;
+    text-align: center;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px black;
+    transition: 2s;
+}
+img{
+    height: 40%;
+}
+
+#card:hover{
+    box-shadow: 0px 8px 16px goldenrod;
+} */
+
+/* postion */
+
+/* div{
+    height: 100px;  
+    width: 100px;
+    background-color: green;
+    text-align: center;
+    border: 3px solid black;
+    margin: 20px;
+    display: inline-block;
+}
+#static{
+    background-color: yellow;
+    position: static;
+    top: 100px;
+    left: 100px;
+}
+#relative{
+    background-color: yellow;
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+#Absolute{
+    background-color: yellow;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+#fixed{
+    background-color: yellow;
+    position: fixed;
+    top: 100px;
+    left: 100px;
+} */
+
+/* create simple simley face */
+#face{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    border-radius: 50%;
+    position: relative;
+}
+#eyes{
+    height: 25px;
+    width: 25px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 50px;
+}
+.f-eye{
+    left: 37px;
+}
+.s-eye{
+    left: 137px;
+}
+#mouth{
+    height: 40px;
+    width: 80px;
+    background-color: red;
+    border-radius: 0 0 50px 50px ;
+    position: absolute;
+    top: 125px;
+    left: 60px;
+}
