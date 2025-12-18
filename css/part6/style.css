@@ -69,7 +69,9 @@
     }
 } */
 
-h1{
+/* media query */
+
+/* h1{
     background-color: yellow;
     border: 2px solid black;
 }
@@ -92,4 +94,8 @@ h1{
     h1{
         background-color: cornsilk;
     }
+} */
+
+h1{
+  font-family: "Roboto", sans-serif;
 }
