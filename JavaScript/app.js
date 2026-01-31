@@ -102,3 +102,36 @@ switch (traffic_signals){
 let first_name = prompt("Enter First Name");
 let last_name = prompt("Enter Last Name");
 alert("Welcome "+first_name+" "+last_name+"!")
+
+
+
+//Javascript Level 3
+//trim method
+let msg = '    h   el   lo      ';
+let trim_msg = msg.trim();
+console.log(trim_msg)
+
+//touppercase and tolowercase
+console.log(msg.toUpperCase());
+console.log(msg.toLowerCase());
+
+//method with argument - indexOf
+let str = 'ILoveCoding';
+console.log(str.indexOf('c'));
+console.log(str.indexOf('Love'));
+
+//method chaning
+console.log(msg.toUpperCase().trim());
+
+//slice method
+console.log(str.slice(1,5));
+console.log(str.slice(5));
+console.log(str.slice(-1));
+
+//replace & repeate methde
+console.log(str.replace("Love","Do"));
+console.log(msg.repeat(3));
+
+//Array
+let student = ['aashlesha','sankalp','sameer'];
+let info = ['aashlesha', 24, 2.515]  //multiple type
