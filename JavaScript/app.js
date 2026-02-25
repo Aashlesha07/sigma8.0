@@ -134,4 +134,48 @@ console.log(msg.repeat(3));
 
 //Array
 let student = ['aashlesha','sankalp','sameer'];
-let info = ['aashlesha', 24, 2.515]  //multiple type
+let info = ['aashlesha', 24, 2.515] ; //multiple type
+//methods
+student.push('sanika');
+console.log(student);
+student.pop('sanika')
+console.log(student);
+student.unshift('sanika')
+console.log(student);
+student.shift('sanika')
+console.log(student);
+
+//indexof & include
+console.log(student.indexOf('sameer'));
+console.log(student.includes('sameer'));
+console.log(student.concat(info));
+console.log(student.reverse());
+
+//slies of array
+console.log(student.slice());
+console.log(student.slice(1));
+console.log(student.slice(1,2));
+console.log(student.slice(-1));
+
+//splice
+console.log(info.splice(1));
+console.log(student);
+console.log(student.splice(0,1))
+console.log(student);
+console.log(student.splice(0,1,'Sameera','Manisha'))
+console.log(student);
+
+//sort
+console.log(student.sort())
+let rollNum = [23,14,97,5687,234,54,87,9,68,45];
+console.log(rollNum.sort())
+
+//nested array
+let num = [[2,4],[3,6],[4,8]];
+console.log(num);
+console.log(num[0]);
+console.log(num[2][0])
+
+
+
+
