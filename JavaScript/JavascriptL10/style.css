@@ -1,0 +1,22 @@
+/* body{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+#box{
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    width: 400px;
+    border: 1px solid black;
+    margin-top: 10px;
+} */
+
+#embox{
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    width: 400px;
+    border: 1px solid black;
+}
